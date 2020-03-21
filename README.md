@@ -1,6 +1,6 @@
 # BeGadu - GG client for BeOS/Haiku/Zeta
 
-My first open source project (I think ;)
+This is the archive of my first open source project (I think ;) from begadu.sourceforge.net
 
 I am happy with the progress I have made over these 20 years :D
 
